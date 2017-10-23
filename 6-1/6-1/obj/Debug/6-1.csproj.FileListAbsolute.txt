@@ -1,0 +1,8 @@
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\6-1\6-1\bin\Debug\6-1.exe.config
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\6-1\6-1\bin\Debug\6-1.exe
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\6-1\6-1\bin\Debug\6-1.pdb
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\6-1\6-1\obj\Debug\6-1.csprojResolveAssemblyReference.cache
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\6-1\6-1\obj\Debug\_6_1.Properties.Resources.resources
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\6-1\6-1\obj\Debug\6-1.csproj.GenerateResource.Cache
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\6-1\6-1\obj\Debug\6-1.exe
+C:\Users\LAF\Documents\Visual Studio 2013\Projects\練習\6-1\6-1\obj\Debug\6-1.pdb
